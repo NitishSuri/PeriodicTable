@@ -1,0 +1,78 @@
+        html,body {
+            margin: 0;
+            font-weight: 400;
+            background-color: #ebe2ed;
+        }
+
+        td {
+           
+            width: 70px;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        .noBorder {
+            border: none;
+        }
+
+        .topic {
+            font-family: "Montserrat", sans-serif;
+            padding: 5px;
+            font-size: 70px;
+        }
+
+        ._color_1 {
+            background-color: #d4eee2;
+        }
+
+        .color_2 {
+            background-color: #b8d5cd;
+        }
+
+        .color_3 {
+            background-color: #FFC0CB;
+        }
+
+        .color_4 {
+            background-color: #ffddd4;
+        }
+        .color_11 {
+            background-color: #edba9d;
+        }
+
+        .color_5 {
+            background-color: #e6e6fa;
+        }
+
+        .color_6 {
+            background-color: #e1d3e4;
+        }
+
+        .color_7 {
+            background-color: #ccff90;
+        }
+
+        .color_8 {
+            background-color: #fed8b1;
+        }
+
+        .color_9 {
+            background-color: #e6f0fa;
+        }
+
+        .color_12 {
+            background-color: #b3e5fc;
+        }
+
+        .text_color_purple {
+            color: #5f059a;
+        }
+
+        .text_color_10 {
+            color: #000000;
+        }
+
+        .text_color_red {
+            color: #ff0000;
+            
+        }
